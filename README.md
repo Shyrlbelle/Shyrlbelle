@@ -5,9 +5,6 @@
 
 ### 🌷 Welcome to my little corner of GitHub!
 
-<p align="center">
-  <img src="./miffy-banner.svg" width="100%" alt="Miffy Pink Profile Banner"/>
-</p>
 
 ♡ Aspiring Developer ♡ | 🌸 Student | 🎀 Creative Mind
 
