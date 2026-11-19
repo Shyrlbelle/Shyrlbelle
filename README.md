@@ -7,10 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=150&section=header&text=Welcome%20to%20my%20profile!&fontSize=30&fontColor=FFFFFF" width="100%"/>
 
-<p align="center">
-  <img src="./miffy-banner.png" width="100%" alt="Miffy Welcome Banner"/>
-</p> 
-
 ♡ Aspiring Developer ♡ | 🌸 Student | 🎀 Creative Mind
 
 </div>
