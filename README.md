@@ -19,7 +19,7 @@
 - 🎀 I'm currently learning programming.
 - 😴 I like to sleep.
 - 😋 I like to eat.
-- 🌸 I miss you baby
+- 🌸 I miss you baby.
 - ☁️ Welcome to my GitHub profile!
   
 
