@@ -23,10 +23,7 @@
 
 ## 🧸 My Skills
 
-![HTML](https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F4A6C1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F8C8DC?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-E8A2B8?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🌷 My GitHub Journey
 
