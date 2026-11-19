@@ -17,9 +17,11 @@
 
 - 🌷 Hi! I'm Shy.
 - 🎀 I'm currently learning programming.
-- 💻 Interested in web development and technology.
-- 🌸 I love creating beautiful and creative projects.
+- 😴 I like to sleep.
+- 😋 I like to eat.
+- 🌸 I miss you baby
 - ☁️ Welcome to my GitHub profile!
+  
 
 ## 🧸 My Skills
 
