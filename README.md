@@ -15,7 +15,7 @@
 
 ## 💗 About Me
 
-- 🌷 Hi! I'm YOUR NAME.
+- 🌷 Hi! I'm Shy.
 - 🎀 I'm currently learning programming.
 - 💻 Interested in web development and technology.
 - 🌸 I love creating beautiful and creative projects.
